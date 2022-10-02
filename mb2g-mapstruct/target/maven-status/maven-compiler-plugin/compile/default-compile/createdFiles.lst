@@ -1,0 +1,4 @@
+guru\springframework\mappers\UserMapper.class
+guru\springframework\model\UserCommand.class
+guru\springframework\domain\User.class
+guru\springframework\mappers\UserMapperImpl.class
